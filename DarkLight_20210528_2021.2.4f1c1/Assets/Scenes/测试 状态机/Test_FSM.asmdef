@@ -1,0 +1,17 @@
+{
+    "name": "Test_FSM",
+    "rootNamespace": "",
+    "references": [
+        "Common",
+        "Plane"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

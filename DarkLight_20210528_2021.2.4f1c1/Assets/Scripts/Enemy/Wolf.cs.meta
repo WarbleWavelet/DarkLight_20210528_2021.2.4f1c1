@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fccb78d7e32c41147b48e71251b6d433
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animation: {instanceID: 0}
+  - target: {instanceID: 0}
+  - missAudioClip: {fileID: 8300000, guid: e20723268b93d6649bf9a94ed9e7721a, type: 3}
+  - hudTextPrefab: {fileID: 1995705564035578841, guid: de8a07b6350d5224c87510cb03983412,
+      type: 3}
+  - hudTextGo: {instanceID: 0}
+  - hudTextTrans: {instanceID: 0}
+  - uiCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

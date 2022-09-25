@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MovieCamera" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAAAAAAAAAAAAAQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\00 StartGame\MovieCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PressAnyKey" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAGAAAAAAAAAAAAIAAABAAAAAAAAQIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\00 StartGame\PressAnyKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataHub" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAACAAgAAAAAAAAAAAAABAAAAAAEAAEA=</HashCode>
+      <FileName>Assets\Scripts\Controller\DataHub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemTextAssetToList" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAAAAAAAAAAAAAGAAAABAAAAAAQAAAAgEA=</HashCode>
+      <FileName>Assets\Scripts\Controller\ItemTextAssetToList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveByMouse" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAUgAAACASAAAAgAAAAAAEAAAAwQAEBgAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controller\MoveByMouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDragDrop" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Controller\MyDragDrop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillTextAssetToList" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAEQAAABAAAAAAQAAAAgEA=</HashCode>
+      <FileName>Assets\Scripts\Controller\SkillTextAssetToList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stretch" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACAAAAAAAAAAAAAAAEAAAAABAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controller\Stretch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipItem" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\EquipItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAIAAAAgAAAAAAAAAAEAwCAAABCABAAAgI=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemGroup" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAgCIIAgAABAAACAAAAACAAAAAAAAAAACABAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\ItemGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Item" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAIIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\Shop_Potion_Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Weapon_Item" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\Shop_Weapon_Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutItem" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\ShortcutItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillItem" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAACAAAgAAAAAAAAAACAAAAEAAQAAIAAQAAQA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\SkillItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillSprite" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Item\SkillSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animator_Player" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIIAAAAAAAAAFAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Animator_Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameSettings" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIREAAAAAAAICQAAAAIAAAAAEAAAAAAAAAAAAgAgAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\GameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAAQIAACAAACAAAAAAAUAAQCAAABCAAAAAEI=</HashCode>
+      <FileName>Assets\Scripts\Model\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PotionItem" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\PotionItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tags" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Tags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagPannel" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQEAsEAACAAAACAAAAAAQIgAAIAAQAAAAAIAARAAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\BagPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipPannel" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQEhAgAEqBAAQAAIIAAAACAAAABgEAAAAAQQAAIAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\EquipPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FunctionBar" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAECAAAAAAwAEAEAAAAAAEAUAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\FunctionBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pannel" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\Pannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestPannel" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAQQABACAAAAAAAIAAAAAAAAAIAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\QuestPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingPannel" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\SettingPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Potion" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYEAAAAACAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\Shop_Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Weapon" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\Shop_Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillPannel" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkABAAACCEAAAAAAAAAAIAAAAAAAARAAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\SkillPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatusPannel" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgSAICAAAgBEAAAAQAAIAAABAQSAAAAAIAAAAEI=</HashCode>
+      <FileName>Assets\Scripts\Model\Pannel\StatusPannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

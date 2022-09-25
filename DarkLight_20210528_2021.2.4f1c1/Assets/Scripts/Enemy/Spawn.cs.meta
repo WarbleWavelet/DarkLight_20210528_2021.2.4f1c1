@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 85ca1d0d1cc51ac49a5d2084a2ba569e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wolfBabyPrefab: {fileID: 8168018544720177097, guid: a21783738cc5a5d458170879220e2a37,
+      type: 3}
+  - wolfNormalPrefab: {fileID: 111419424531082754, guid: b152ee0f60e69c04a9982ed2d6dc52d8,
+      type: 3}
+  - wolfBossPrefab: {fileID: 7975661560069187729, guid: 6a0b4568c6c1a3f47ac2fde7b71341d0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
